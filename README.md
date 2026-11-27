@@ -1,27 +1,20 @@
-# Hi, I'm Japheth Oyewale 👋
+# Gremlin Builds
 
-4th-year Computer Science student specializing in **AI/ML and agentic systems**, based in British Columbia, Canada.
+I build small AI automation tools that kill busywork — the repetitive stuff that eats hours out of a work week.
 
-I build practical AI tools — automation pipelines, RAG systems, and AI integrations that solve real business problems.
+## What I'm building
 
-## 🚀 What I'm building
+- **InvoiceFlow Kit** — drop a folder of PDF invoices in, get a clean, validated spreadsheet out. Catches duplicates, total mismatches, and bad dates before they cost you money. One command, under a second.
+  → Product: https://gremlinbuilds.gumroad.com/l/invoiceflow-kit · Code: [invoice-pipeline](https://github.com/gremlinbuilds/invoice-pipeline)
 
-- **[InvoiceFlow Kit](https://github.com/japhethw010-ship/invoice-pipeline)** — a Python pipeline that extracts line items from invoice PDFs, validates totals/dates/duplicates, and exports a clean ledger to Google Sheets or CSV with a weekly summary email. Being packaged as a commercial product for freelancers and small businesses.
-- **MarketMe** — an evidence-grounded AI marketing-audit pipeline for local businesses. Three-stage system (scout → voice profiler → audit writer) evaluated against an ungrounded baseline on 30 business profiles: **100% of grounded claims verified vs 14.2% for the baseline** (hallucination 0.0% vs 85.8%).
+- **MarketMe** — an evidence-grounded AI marketing-audit pipeline for local businesses. Three-stage audit generation with grounded-vs-ungrounded evaluation: 100% of grounded claims supported by source evidence vs 14.2% for the ungrounded baseline, across 30 test profiles.
 
-## 🔬 Research interests
+- Exploring how large language models can drive intent-based networking in software-defined networks — turning plain-language intent into structured, verifiable network policy.
 
-- Large Language Models for **intent-based networking** in software-defined networks (LLM + RAG → structured, verifiable network policy)
-- Grounded generation and hallucination reduction
-- Agentic AI workflows
+## Toolbox
 
-## 🛠️ Skills
+Python · Java · SQL · LLM apps & RAG · evaluation pipelines · REST APIs · Git
 
-**Languages:** Python, Java, SQL
-**AI/ML:** LLM applications, RAG, prompt engineering, evaluation design, scikit-learn
-**Tools:** Git/GitHub, Google Sheets API, REST APIs, Linux
+## The idea
 
-## 📫 Get in touch
-
-- Email: Japhethw010@gmail.com
-- Open to: AI/ML internships, freelance AI automation projects
+Most small businesses don't need more software. They need the boring parts gone. That's what I build.
